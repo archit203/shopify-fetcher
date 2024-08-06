@@ -33,10 +33,10 @@ Ensure you have the following installed on your system:
    cd backend
    node src/server.js
 
-Usage
-Go to the frontend.
-Provide a valid Shopify URL.
-Wait for some time, and the result will be displayed.
+## Usage
+- Go to the frontend.
+- Provide a valid Shopify URL.
+- Wait for some time, and the result will be displayed.
 
 
 
