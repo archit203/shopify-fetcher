@@ -22,7 +22,7 @@ Ensure you have the following installed on your system:
 4. **Set up the backend**
    Create a .env file in the backend directory.
    Add your Groq API key in the .env file
-   GROQ_API=<your api key>
+   GROQ_API=<your_api_key>
 5. **To run frontend**
    ```sh
    cd frontend
